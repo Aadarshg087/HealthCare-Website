@@ -38,7 +38,6 @@ This repository showcases a **DevOps project** built around a basic healthcare w
 
 5. **Hosting**:  
    - The application is deployed on **AWS EC2 instances**, ensuring high availability and scalability.
-
 ---
 
 ## 🚀 Key Features of the Project
